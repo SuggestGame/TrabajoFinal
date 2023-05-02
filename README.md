@@ -1,6 +1,6 @@
 # TrabajoParcial
 Integrantes:
- - Pineda Ugaz, Luis Alberto
+ - Pineda Ugás, Luis Alberto
  - Ahuanari Murayari, Maria Alexandra
  - Gómez De la Cruz, Cristhian Gabriel
  
