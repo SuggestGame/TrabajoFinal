@@ -1,4 +1,4 @@
-# TrabajoParcial
+# TrabajoFinal
 Integrantes:
  - Pineda Ugás, Luis Alberto
  - Ahuanari Murayari, Maria Alexandra
